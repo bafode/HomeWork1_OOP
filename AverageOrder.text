@@ -1,0 +1,32 @@
+20.03.2020 15:27:39
+No.	First_Name	Last_Name	İd_Student	tHomework1	homework2	Vize	Projet	Final	Average	Letter_Mark	Level_of_succes	GeneralMark
+   1	OXAWT    	ZFPML   	233		61		70		96	97	97	100,15 	         AA	     Pekiyi 	4,01
+   2	MDNOK    	JHCQQ   	324		40		15		99	99	99	94,60 	         AA	     Pekiyi 	3,78
+   3	JFHFB    	XSTRC   	388		72		54		99	84	84	91,95 	         AA	     Pekiyi 	3,68
+   4	TXJFT    	LNJRH   	359		65		28		89	89	89	89,40 	         BA	  iyiPekiyi 	3,58
+   5	NGMHC    	OQRLA   	233		80		94		84	74	74	86,50 	         BA	  iyiPekiyi 	3,46
+   6	SSEPV    	XOAGO   	242		30		44		67	91	91	83,30 	         BB	        iyi 	3,33
+   7	GMAMD    	WMRAJ   	238		98		30		48	87	87	81,35 	         BB	        iyi 	3,25
+   8	TMNAC    	YMBPW   	250		28		84		80	76	76	80,60 	         BB	        iyi 	3,22
+   9	HXPCJ    	HQZBR   	357		21		68		52	82	82	75,20 	         CB	   Orta-iyi 	3,01
+  10	NFCFF    	YNEOE   	337		34		66		50	81	81	75,15 	         CB	   Orta-iyi 	3,01
+  11	PMDVX    	WJCFE   	277		49		25		28	91	91	73,55 	         CC	       Orta 	2,94
+  12	GVRPQ    	VJWJS   	277		60		36		50	78	78	72,80 	         CC	       Orta 	2,91
+  13	BZDJX    	ARHCP   	236		45		98		90	51	51	69,95 	         CC	       Orta 	2,80
+  14	FRNCA    	LCYNL   	362		55		45		16	86	86	69,90 	         CC	       Orta 	2,80
+  15	PUTDS    	NOTWZ   	299		34		99		64	60	60	68,30 	         CC	       Orta 	2,73
+  16	BZHMN    	HDRXA   	257		49		31		66	65	65	66,75 	         CC	       Orta 	2,67
+  17	AMHHR    	UZGFJ   	319		70		52		57	61	61	66,10 	         CC	       Orta 	2,64
+  18	KYLXK    	EJBKX   	385		67		29		34	67	67	61,65 	         DC	 Zayif-Orta 	2,47
+  19	HLROX    	UJPOL   	285		80		39		90	41	41	61,05 	         DC	 Zayif-Orta 	2,44
+  20	NZNHL    	ZAEJX   	359		89		87		11	53	53	54,80 	         DD	      Zayif 	2,19
+  21	XFEEM    	SJQQX   	299		14		56		30	56	56	50,90 	         DD	      Zayif 	2,04
+  22	WVASK    	DZYUU   	336		41		29		46	44	44	47,10 	         FD	  başarısız 	1,88
+  23	NODGF    	TOAQK   	300		55		13		15	56	56	46,95 	         FD	  başarısız 	1,88
+  24	RWSJX    	GNYWQ   	220		99		69		70	17	17	45,35 	         FD	  başarısız 	1,81
+  25	RBWUO    	LBFAE   	378		77		97		14	37	37	44,95 	         FD	  başarısız 	1,80
+  26	JZUAY    	KJQOU   	281		29		77		23	43	43	44,30 	         FD	  başarısız 	1,77
+  27	HYHYU    	QTNET   	330		12		93		18	39	39	40,35 	         FD	  başarısız 	1,61
+  28	VGFOF    	MGUEY   	382		16		35		51	30	30	37,35 	         FF	  Başarısız 	1,49
+  29	CYJUJ    	LTAAV   	347		73		16		57	21	21	36,80 	         FF	  Başarısız 	1,47
+  30	PWCCX    	DZWJY   	202		16		83		26	26	26	33,30 	         FF	  Başarısız 	1,33
